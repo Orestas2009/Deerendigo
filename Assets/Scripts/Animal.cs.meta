@@ -3,7 +3,9 @@ guid: 18bf5d6e55b6f7144856560997acf3c6
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - DeadDeer: {instanceID: 0}
+  - Monster: {fileID: 2831343698799831111, guid: 5642111f7ca69f64da4178efd08af252, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
